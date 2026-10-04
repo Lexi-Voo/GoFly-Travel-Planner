@@ -1,6 +1,6 @@
 
 # GoFly Travel Planner
-<img width="800" alt="GoFly Dashboard Screenshot" src="https://github.com/user-attachments/assets/71cedb5b-bee8-4a19-bdee-8b547fad02eb" />
+<img width="800" alt="GoFly Dashboard Screenshot" src="https://github.com/user-attachments/assets/d1a2fd6a-d85f-485b-8464-48b4cd4e6bb5" />
 
 GoFly is a decoupled and cloud-native travel dashboard featuring third-party API integration (SerpAPI, Open-Meteo) designed to optimize city-based tourism searches and get an instant destination overview.
 
